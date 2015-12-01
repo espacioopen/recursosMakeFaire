@@ -1,2 +1,4 @@
 # recursosMakeFaire
-Recursos maker faire
+Recursos maker faire:
+
+Material artistico utilizado durante la Bilbao Maker Faire 2015
